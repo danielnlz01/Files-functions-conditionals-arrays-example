@@ -1,0 +1,8 @@
+PlayStation 5;11999;8999
+iPhone 12;26999;23999
+Galaxy S20;18999;1699
+Xbox Series X;11999;8999
+MacBook Pro;59999;49999
+Xiaomi Mi Band;699;399
+Apple Watch;6999;4999
+iPad;11999;8999
